@@ -1,0 +1,15 @@
+from turtle import *
+color("orange")
+fillcolor("purple")
+
+shape("circle")
+left(90)
+forward(100)
+right(90)
+forward(100)
+right(90)
+forward(100)
+right(90)
+forward(100)
+circle(123,345)
+clone()

@@ -1,0 +1,5 @@
+print(f"x o x o x o x o x o x o x o xo x o x o  x o x o ")
+print(f"o x o x o x o x o x o x o x o x o x o x o x o x")
+print(f"x x o o x x o o x x o o x x o o x x o o o x x o ")
+print("it is a draw") 
+print("not for diagonal")
