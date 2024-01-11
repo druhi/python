@@ -16,7 +16,7 @@ else:
     if ans2 == "asia":
        print(f"wrong {name} the largest continent is asia")
     else:
-        print(f"correct {name} the smallestt continent is austrilia")
+        print(f"correct {name} the smallest continent is austrilia")
 
 
 

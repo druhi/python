@@ -4,3 +4,4 @@ def main():
     print("x is sqared ")
     def sqare():
         print(N*N)
+    sqare()

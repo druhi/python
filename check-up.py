@@ -20,6 +20,3 @@ print("❤💚🤎🧡💙🖤💛💜🤍💕💗😘🥰😍👼🎆🎇✨�
 print("we love to see your fashion in story")
 print("go to https://druhi.cf/")
 print("please🙏")
-
-
-

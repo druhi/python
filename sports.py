@@ -5,7 +5,7 @@ match i:
     case("football"):
         print("shaurya")
     case("karate"):
-        print("adira,aliya,anaya,pranshi")
+        print("adira,aliya,anaya,pranshi,sanvi")
     case("skating"):
         print("ayaan,atharv")
     case("cricket"):

@@ -1,20 +1,19 @@
 import turtle
-from turtle import forward, right
+# import
 screen = turtle.Screen()
 screen.bgcolor("white")
 pen = turtle.Turtle()
+# variable
 pen.speed(0)
 pen.fillcolor("green")
 pen.begin_fill()
 pen.circle(100)
 pen.end_fill()
+#settings
 turtle.done()
+# turtle.done make it steady
 # for making a circle(filled)
-for i in range(4):
-    forward(50)
-    right(90)
-    pen.fillcolor("purple")
-# for making a square
+
 
 
 
