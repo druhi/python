@@ -5,7 +5,7 @@ for i in range(5):#loop
 to = 6-4#variables
 if to <4:#conditional
     print("d")
-   # "comment" # will not print thing under # 
+# comment # will not print thing under # 
     
 
 
