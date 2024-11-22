@@ -7,8 +7,7 @@ def game():
     else :
         print("exiting")
         exit()
-    words = ["watch","rain","delhi","rainbow","tea","verb","reap","frog","ship","animal","lion","hat","dustbin","cow","pot","rat","can","train","odisha","goa","two","one","web","eat","put","ox","jar","bread","almond","walnut","peanut","dam","like","brazil","china","why","ass","brain","dry","cry","brinjal","rain","train","nail" ]
-
+    words = ["watch","rain","delhi","rainbow","tea","verb","reap","frog","ship","animal","lion","hat","dustbin","cow","pot","rat","can","train","odisha","goa","two","one","web","eat","put","ox","jar","bread","almond","walnut","peanut","dam","like","brazil","china","why","ass","brain","dry","cry","brinjal","rain","train","nail","pet","wet","read","write","amber","abs" ]
     word = random.choice(words)
     return word
 
